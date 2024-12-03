@@ -99,20 +99,30 @@ Techplots bridge this gap by deriving model-independent transistor parameters di
 
 ![NMOS Plot](Plots/NMOS/N_gmro.png)  
 
-- (g<sub>m</sub>/I<sub>d</sub>) vs. (I<sub>d</sub>/W)  
+- (g<sub>m</sub>/I<sub>d</sub>) vs. (I<sub>d</sub>/W)
+<br>
+
 ![NMOS Plot](Plots/NMOS/N_Id_upon_W.png)  
 
-- (g<sub>m</sub>/I<sub>d</sub>) vs. (f<sub>t</sub>)  
+- (g<sub>m</sub>/I<sub>d</sub>) vs. (f<sub>t</sub>)
+<br>
+
 ![NMOS Plot](Plots/NMOS/N_ft.png)  
 
 ### PMOS Plots
-- (g<sub>m</sub>/I<sub>d</sub>) vs. (g<sub>m</sub>r<sub>o</sub>) 
+- (g<sub>m</sub>/I<sub>d</sub>) vs. (g<sub>m</sub>r<sub>o</sub>)
+<br>
+
 ![PMOS Plot](Plots/PMOS/P_gmro.png)  
 
-- (g<sub>m</sub>/I<sub>d</sub>) vs. (I<sub>d</sub>/W)    
+- (g<sub>m</sub>/I<sub>d</sub>) vs. (I<sub>d</sub>/W)
+<br>
+   
 ![PMOS Plot](Plots/PMOS/P_Id_upon_W.png)  
 
-- (g<sub>m</sub>/I<sub>d</sub>) vs. (f<sub>t</sub>)  
+- (g<sub>m</sub>/I<sub>d</sub>) vs. (f<sub>t</sub>)
+<br>
+
 ![PMOS Plot](Plots/PMOS/P_ft.png)  
 
 ---
