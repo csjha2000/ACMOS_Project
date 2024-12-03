@@ -80,8 +80,10 @@ Techplots bridge this gap by deriving model-independent transistor parameters di
 
 ### Initial Cadence Outputs
 
+ - PMOS
 ![PMOS Plot](PMOS_simulation.png)  
 
+ - NMOS
 ![NMOS Plot](NMOS_simulation.png)  
 
 - **Key Observations**:
