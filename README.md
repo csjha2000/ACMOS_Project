@@ -95,7 +95,8 @@ Techplots bridge this gap by deriving model-independent transistor parameters di
 
 ### NMOS Plots
 - (g<sub>m</sub>/I<sub>d</sub>) vs. (g<sub>m</sub>r<sub>o</sub>)
-<br> 
+<br>
+
 ![NMOS Plot](Plots/NMOS/N_gmro.png)  
 
 - (g<sub>m</sub>/I<sub>d</sub>) vs. (I<sub>d</sub>/W)  
