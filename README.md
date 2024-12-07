@@ -2,10 +2,19 @@
 
 Design and optimization of Low-Dropout Regulators (LDOs) using technology plotting (techplots) methods in contrast to traditional square-law models. This project utilizes the **gpdk 45nm technology node**, leveraging Cadence tools and Python scripting for analysis and visualization.
 
+---
+
 ### Important Files and Links
 
  - [Final Report (.pdf)](https://github.com/csjha2000/ACMOS_Project/blob/main/Final_Report.pdf)
  - [Excel Sheet](https://github.com/csjha2000/ACMOS_Project/blob/main/VL502_Project_Sheet.xlsx) or View on [Google Sheets](https://docs.google.com/spreadsheets/d/1d3Ld0u0d_31zT9MTXW2_ewtVpdxVcujfSuKCL4VAPww/edit?usp=sharing)
+
+---
+
+## **Data and Scripts**
+
+- **Simulation Data**: csv files for NMOS and PMOS [here](Data/).  
+- **Analysis Script**: Python script for techplot analysis can be found [here](Scripts/) or our [Colab Notebook](https://colab.research.google.com/drive/1RrQe48ugOh9o6v59a-_cJjSKxmBqI8V3?usp=sharing).
 
 ---
 
@@ -133,13 +142,6 @@ Techplots bridge this gap by deriving model-independent transistor parameters di
 <br>
 
 ![PMOS Plot](Plots/PMOS/P_ft.png)  
-
----
-
-## **Data and Scripts**
-
-- **Simulation Data**: csv files for NMOS and PMOS [here](Data/).  
-- **Analysis Script**: Python script for techplot analysis can be found [here](Scripts/) or our [Colab Notebook](https://colab.research.google.com/drive/1RrQe48ugOh9o6v59a-_cJjSKxmBqI8V3?usp=sharing).
 
 ---
 
