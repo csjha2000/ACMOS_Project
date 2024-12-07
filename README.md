@@ -152,7 +152,7 @@ Techplots bridge this gap by deriving model-independent transistor parameters di
 **Eshwar Allampally**  
 **Email**: eshwarsworkplace@gmail.com  
 **Chandrashekar Jha**  
-**Email**: csjha2000@gmail.com
+**Email**: csjha1996@gmail.com
 
 ---
 
