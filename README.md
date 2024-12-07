@@ -2,6 +2,8 @@
 
 Design and optimization of Low-Dropout Regulators (LDOs) using technology plotting (techplots) methods in contrast to traditional square-law models. This project utilizes the **gpdk 45nm technology node**, leveraging Cadence tools and Python scripting for analysis and visualization.
 
+[Here is our Final Report (.pdf)](https://github.com/csjha2000/ACMOS_Project/blob/main/Final_Report.pdf)
+
 ---
 
 ## **Why Techplots Over Square-Law Models?**
